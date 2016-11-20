@@ -1,6 +1,6 @@
 {
   "name": "amanhimself",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An npm package about myself.",
   "main": "index.js",
   "scripts": {
