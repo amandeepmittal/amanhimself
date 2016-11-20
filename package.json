@@ -1,0 +1,24 @@
+{
+  "name": "amanhimself",
+  "version": "0.0.1",
+  "description": "An npm package about myself.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandeepmittal/amanhimself.git"
+  },
+  "keywords": [
+    "npm",
+    "amandeepmittal",
+    "amanhimself"
+  ],
+  "author": "Aman Mittal (http://amandeepmittal.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amandeepmittal/amanhimself/issues"
+  },
+  "homepage": "https://github.com/amandeepmittal/amanhimself#readme"
+}
