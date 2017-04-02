@@ -1,7 +1,7 @@
 module.exports = {
   name: {
     first: "Aman",
-    last: "mMittal",
+    last: "Mittal",
     full: "Aman Mittal"
   },
   description: "Self-taught Nodejs developer",
