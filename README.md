@@ -17,3 +17,27 @@ console.log(aman.name.first);
 console.log(aman.projects.jade.description);
 //=> Jade/Pug snippets package for Atom.
 ```
+
+### API
+* name
+  * first
+  * last
+  * full
+* description
+* links
+  * website
+  * twitter
+  * github
+  * blog
+  * medium
+  * npm
+  * atom
+* skills
+  * specialities
+  * serverSide
+  * clientSide
+  * database
+  * templateEngines
+  * tools
+  * editors
+* projects

@@ -1,10 +1,10 @@
 module.exports = {
   name: {
-    first: "aman",
-    last: "mittal",
-    full: "aman mittal"
+    first: "Aman",
+    last: "mMittal",
+    full: "Aman Mittal"
   },
-  description: "self-taught nodejs developer",
+  description: "Self-taught Nodejs developer",
   location: "new delhi, India",
   links: {
     website: "http://amandeepmittal.github.io",
@@ -15,17 +15,17 @@ module.exports = {
     npm: "https://npmjs.com/~amandeepmittal",
     atom: "https://atom.io/users/amandeepmittal"
   },
-  primarySkills: ["nodejs", "expressjs", "mongodb", "angularjs"],
+  primarySkills: ["Nodejs", "Expressjs", "Mongodb", "Angularjs", "Ionic Framework"],
   skills: {
-    serverSide: "node.js",
-    frameworks: "expressjs",
-    database: "mongodb",
-    clientSide: ["angularjs", "html", "javascript", "makrdown", "twitter bootstrap"],
-    templateEngines: ["jade/pug" ,"handlebars", "ejs"],
-    editors: ["atom", "webstorm"],
-    tools: ["git", "github", "npm", "mocha", "grunt", "yeoman"]
+    specialities: ["Node.js", "MEAN Stack", "Ionic Framework"],
+    serverSide: ["Node.js","Expressjs"],
+    database: "MongoDB",
+    clientSide: ["Angularjs", "HTML", "CSS", "JavaScript", "Bootstrap"],
+    templateEngines: ["Pug" ,"Handlebars", "EJS"],
+    editors: ["Atom", "Webstorm"],
+    tools: ["Git", "Github", "npm", "Bower", "Mocha", "Grunt", "Gulp", "Yeoman"]
   },
-  projects:{
+  projects: {
     trimify: {
       description: "To remove lead and trail whitespace(s) from a JavaScript String [without using RegExp]",
       link: "https://www.npmjs.com/package/trimify"
