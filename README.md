@@ -1,4 +1,6 @@
 # amanhimself
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/amanhimself.svg)](https://greenkeeper.io/)
 An npm package about myself.
 
 [![npm](https://img.shields.io/npm/v/amanhimself.svg?style=flat-square)](https://www.npmjs.org/package/amanhimself)
